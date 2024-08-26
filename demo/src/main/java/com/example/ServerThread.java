@@ -6,6 +6,7 @@ import java.net.Socket;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
+// Test
 public class ServerThread implements Runnable {
     private Socket socket;
     private Database database;
